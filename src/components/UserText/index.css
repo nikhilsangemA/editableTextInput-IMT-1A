@@ -1,0 +1,26 @@
+.bgColor {
+  background-color: #f5d0fe;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.userTextCont {
+  background-color: #ffffff;
+  border-radius: 9px;
+  padding: 20px;
+  color: #000000;
+}
+
+.input-edit {
+  height: 40px;
+  width: 139px;
+}
+
+.btn-save {
+  color: #ffffff;
+  background-color: #d946ef;
+  height: 40px;
+}
